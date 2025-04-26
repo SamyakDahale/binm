@@ -158,11 +158,11 @@ def main():
                     Empowering communities to embrace sustainable waste solutions. Join us in building a greener, cleaner future for generations to come.
                 </p>
                 <div class="cta">
-                    <a href="https://binwiseu.streamlit.app" target="_blank">
+                    <a href="https://binwiseu.streamlit.app/" target="_blank">
                         <button class="cta-button">👤 User Portal</button>
                     </a>
-                    <a href="https://binad123.streamlit.app" target="_blank">
-                        <button class="cta-button">🛠️ Admin Dashboard</button>
+                    <a href="https://binad123.streamlit.app/" target="_blank">
+                        <button class="cta-button">🛠️ Admin11 Dashboard</button>
                     </a>
                 </div>
 
